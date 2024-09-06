@@ -266,3 +266,10 @@ main .section.highlight {
 .default-content-wrapper {
   color: red;
 }
+.section {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+}
