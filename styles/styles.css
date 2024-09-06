@@ -266,7 +266,7 @@ main .section.highlight {
 .default-content-wrapper {
   color: red;
 }
-.section {
+.nav-sections {
   position: absolute;
   left: 150px;
   width: 200px;
