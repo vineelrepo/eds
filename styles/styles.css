@@ -264,7 +264,5 @@ main .section.highlight {
   background-color: #f9f9f9; /* Optional background color */
 }
 .default-content-wrapper {
-  color: navy;
-  text-indent: 30px;
-  text-transform: uppercase;
+  color: red;
 }
