@@ -263,3 +263,8 @@ main .section.highlight {
   padding: 10px;
   background-color: #f9f9f9; /* Optional background color */
 }
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
